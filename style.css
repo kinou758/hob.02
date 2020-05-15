@@ -85,7 +85,7 @@ html, body {
 		transition-property: all;
 		transition-delay: .3s;
 		transition-duration: .5s;
-    font-size:100%;
+    font-size:100;
 		color: red;
 
 
